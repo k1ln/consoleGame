@@ -1,0 +1,10 @@
+{
+    "name":"world",
+    "rowSize":10000,
+    "columnSize":5000,
+    "editorSpawn":{
+        "x":2500,
+        "y":2500
+    },
+    "rows":[]
+}

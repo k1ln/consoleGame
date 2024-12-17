@@ -1,0 +1,1 @@
+["characters","spells","building","furniture","decoration","tools","misc"]
